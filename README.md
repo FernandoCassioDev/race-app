@@ -1,3 +1,7 @@
+Race-app is an app for users runs in real time with option to user easily choose your destiny.
+
+The race-app was built by react native, tailwind css and some libraries for styling.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
